@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Corporate Home Page | Attindas]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-10-20T04:04:41 IST" name="Default suite" finished-at="2021-10-20T04:04:57 IST" duration-ms="16418">
+    <groups>
+    </groups>
+    <test started-at="2021-10-20T04:04:41 IST" name="Default test" finished-at="2021-10-20T04:04:57 IST" duration-ms="16418">
+      <class name="com.qa.ac.test.OurCompany">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.qa.ac.test.OurCompany@342c38f8]" started-at="2021-10-20T04:04:41 IST" name="openBrowser" finished-at="2021-10-20T04:04:50 IST" duration-ms="9449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="ourCompany()[pri:0, instance:com.qa.ac.test.OurCompany@342c38f8]" started-at="2021-10-20T04:04:50 IST" name="ourCompany" finished-at="2021-10-20T04:04:57 IST" duration-ms="6275" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Corporate Home Page | Attindas]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ourCompany -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.ac.test.OurCompany@342c38f8]" started-at="2021-10-20T04:04:57 IST" name="closeBrowser" finished-at="2021-10-20T04:04:57 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.ac.test.OurCompany -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
